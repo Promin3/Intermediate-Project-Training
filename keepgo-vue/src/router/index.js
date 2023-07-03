@@ -10,6 +10,13 @@ import Video from '../views/forestage/Video.vue'
 import Team from '../views/forestage/Team.vue'
 import Register from '../views/Register.vue'
 import Login from '../views/Login.vue'
+import Video1 from '../views/forestage/videos/video1.vue'
+import Video2 from '../views/forestage/videos/video2.vue'
+import Video3 from '../views/forestage/videos/video3.vue'
+import Video4 from '../views/forestage/videos/video4.vue'
+import Video5 from '../views/forestage/videos/video5.vue'
+import Video6 from '../views/forestage/videos/video6.vue'
+import Video7 from '../views/forestage/videos/video7.vue'
 
 
 // 2. 定义一些路由
@@ -52,7 +59,38 @@ const routes = [
             },
             {
                 path: 'video',
-                component: Video
+                component: Video,
+                redirect:'/home/video/video1',
+                children:[
+                    {
+                        path: 'video1',
+                        component: Video1
+                    },
+                    {
+                        path: 'video2',
+                        component: Video2
+                    },
+                    {
+                        path: 'video3',
+                        component: Video3
+                    },
+                    {
+                        path: 'video4',
+                        component: Video4
+                    },
+                    {
+                        path: 'video5',
+                        component: Video5
+                    },
+                    {
+                        path: 'video6',
+                        component: Video6
+                    },
+                    {
+                        path: 'video7',
+                        component: Video7
+                    }
+                ]
             }
         ]
     }

@@ -9,16 +9,16 @@
             <el-card class="box-card">
                 <template #header>
                     <div class="card-header">
-                        <span>登录 KeepGo社区</span>
+                        <span>登录KeepGo平台</span>
                     </div>
                 </template>
 
                 <el-form ref="ruleFormRef" :model="ruleForm" status-icon label-width="120px" class="demo-ruleForm">
                     <el-form-item label="账号" prop="account">
-                        <el-input v-model="ruleForm.pass" type="text" autocomplete="off" />
+                        <el-input v-model="ruleForm.pass" type="text" autocomplete="off" style="width: 300px;"/>
                     </el-form-item>
                     <el-form-item label="密码" prop="password">
-                        <el-input v-model="ruleForm.checkPass" type="password" autocomplete="off" />
+                        <el-input v-model="ruleForm.checkPass" type="password" autocomplete="off" style="width: 300px;"/>
                     </el-form-item>
 
                     <el-form-item>
