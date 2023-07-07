@@ -1,0 +1,9 @@
+
+v
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(…á´ˆ8ÅÓ«¨’1
+{
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸å¼¥þÿÿÿÿ8ÆÓ«¨’1
+x
+java:S1845e"VRename method "FindPage" to prevent any misunderstanding/clash with method "findPage".(ïí“¦ûÿÿÿÿ8íÓ«¨’1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼âÙ¨8ôÓ«¨’1
+o	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïí“¦ûÿÿÿÿ8ŽÔ«¨’1

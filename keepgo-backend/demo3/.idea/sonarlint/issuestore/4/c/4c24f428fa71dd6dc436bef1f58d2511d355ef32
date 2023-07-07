@@ -1,0 +1,29 @@
+
+[	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(ŸÅı»
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©øùü
+t
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÆÎ¸şÿÿÿÿ
+t
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(­à¡øÿÿÿÿ
+l
+java:S1192 "PDefine a constant instead of duplicating this literal "å‚æ•°é”™è¯¯ï¼" 3 times.(ÂİÛÜıÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(ëÂıÛúÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(ÜËœ¸ûÿÿÿÿ
+Q	java:S125w"<This block of commented-out lines of code should be removed.(Ã÷çá
+c
+java:S3252Ÿ"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(¹ËîŒ
+c
+java:S3252Ÿ"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(¹ËîŒ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(ÙËŠ©
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Œàû
+c
+java:S3252­"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(†¿¯é
+c
+java:S3252­"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(†¿¯é
+c
+java:S3252­"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(†¿¯é
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(ÙËŠ©
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+8
+java:S1116Å"Remove this empty statement.(ôŸìúÿÿÿÿ
+i	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¼…¨ÿÿÿÿÿ

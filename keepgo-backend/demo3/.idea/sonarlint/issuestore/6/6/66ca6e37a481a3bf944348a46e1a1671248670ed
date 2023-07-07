@@ -1,0 +1,42 @@
+
+{
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(µí†ÿÿÿÿÿ8ÑÅ’1
+{
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ‡Ï…ùÿÿÿÿ8ŸÑÅ’1
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…é©Øøÿÿÿÿ8¨ÑÅ’1
+c
+java:S1128"FRemove this unused import 'com.wanghao.demo.service.ILoginlogService'.(‘¤ª8¬ÑÅ’1
+U
+java:S1128"8Remove this unused import 'cn.hutool.core.util.StrUtil'.(ƒËôø8­ÑÅ’1
+^
+java:S1128"<Remove this unused import 'cn.hutool.poi.excel.ExcelReader'.(Ö˜şøÿÿÿÿ8­ÑÅ’1
+V
+java:S1128":Remove this unused import 'cn.hutool.poi.excel.ExcelUtil'.(ø©Ğu8­ÑÅ’1
+Y
+java:S1128"<Remove this unused import 'cn.hutool.poi.excel.ExcelWriter'.(÷ô©8­ÑÅ’1
+@
+java:S1128"Remove this duplicated import.(¯à½ıÿÿÿÿ8­ÑÅ’1
+[
+java:S1128">Remove this unused import 'com.wanghao.demo.common.Constants'.(—Ñ¹¨8­ÑÅ’1
+a
+java:S1128"DRemove this unused import 'com.wanghao.demo.controller.dto.UserDto'.(óı©Ê8­ÑÅ’1
+[
+java:S1128"9Remove this unused import 'com.wanghao.demo.entity.User'.(‹Ú¼Öúÿÿÿÿ8­ÑÅ’1
+\
+java:S1128"?Remove this unused import 'com.wanghao.demo.mapper.UserMapper'.(ÖÓ«÷8­ÑÅ’1
+c
+java:S1128"ARemove this unused import 'com.wanghao.demo.service.UserService'.(Ëæ¦Úşÿÿÿÿ8­ÑÅ’1
+o
+java:S1128"MRemove this unused import 'com.wanghao.demo.service.impl.ArticleServiceImpl'.(Åªãıÿÿÿÿ8­ÑÅ’1
+n
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ8­ÑÅ’1
+S
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8®ÑÅ’1
+Z
+java:S1128 ">Remove this unused import 'javax.servlet.ServletOutputStream'.(©ãï8®ÑÅ’1
+`
+java:S1128!"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8®ÑÅ’1
+M
+java:S1128""0Remove this unused import 'java.io.InputStream'.(¹»º8®ÑÅ’1
+M
+java:S1128#"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ8®ÑÅ’1
