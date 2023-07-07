@@ -4,8 +4,6 @@
 <br><br>
 项目结构说明：
 <br><br>
-说明.md: 说明该仓库文件/文件夹用途
-<br><br>
 LICENSE: 项目许可证
 <br><br>
 README.md: 项目说明
